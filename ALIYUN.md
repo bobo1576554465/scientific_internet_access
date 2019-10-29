@@ -224,10 +224,11 @@ chmod +x shadowsocksR.sh
 #### 九：大功告成
 
 1：下载一个windows的梯子。[下载](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
-
+[MAC梯子](https://github.com/bobo1576554465/ShadowsocksX-NG)
 [安卓梯子](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 [IOS梯子](https://github.com/shadowsocks/shadowsocks-iOS/releases)
+
 
 2：配置连接帐号与密码
 
